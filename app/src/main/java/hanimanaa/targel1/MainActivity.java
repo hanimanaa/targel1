@@ -9,6 +9,7 @@ import android.widget.LinearLayout;
 public class MainActivity extends AppCompatActivity {
 
     Keyboard k;
+    int x;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
