@@ -12,7 +12,7 @@ public class MainActivity extends AppCompatActivity {
     int x;
     int y;
     int z;
-String t;
+    String t= "?hani";
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
