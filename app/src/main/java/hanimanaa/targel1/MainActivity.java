@@ -13,6 +13,7 @@ public class MainActivity extends AppCompatActivity {
     int y;
     int z;
     String t= "?hani";
+    int yy;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
