@@ -11,6 +11,7 @@ public class MainActivity extends AppCompatActivity {
     Keyboard k;
     int x;
     int y;
+    int z;
 
 
     @Override
